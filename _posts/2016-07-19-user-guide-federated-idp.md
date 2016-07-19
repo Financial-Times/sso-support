@@ -6,15 +6,15 @@ date:   2016-07-19 10:00:00
 
 # Introduction 
 Thank you for taking part in our pilot to test our new FT Single sign on (SSO) feature for corporate users. 
-  
-## What is SSO? 
+
+## What is SSO? 
 Single Sign On (SSO) allows a user who is logged in to one application 
 to be able to log in automatically to additional applications. This 
 means when you are logged into your company network this will allow you 
 to be logged into your FT account and view content without having to 
 enter your FT account password.
   
-## Why are the FT providing SSO?
+## Why are the FT providing SSO?
 We are developing SSO to improve convenience for our users by reducing 
 log in friction and to prevent users from having to remember additional 
 passwords.
