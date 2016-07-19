@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "User Guide - Federated IdP"
+title:  "FT SSO User Guide - Federated IdP"
 date:   2016-07-19 10:00:00
 ---
 
@@ -24,7 +24,7 @@ passwords.
 There are two main ways available to log in via Single Sign On to view FT content. Our Discovery Service, or via a WAYFLess URL. 
 
 ## Discovery Service
-When you next visit www.ft.com or our new website next.ft.com directly, 
+When you next visit [www.ft.com](http://www.ft.com) or our new website [next.ft.com](https://next.ft.com) directly, 
 or click on an FT article via an external link (e.g. an email link, a 
 link on twitter etc) you will be logged in through a "Discovery Service"
  via the FT's login page.
@@ -33,7 +33,7 @@ link on twitter etc) you will be logged in through a "Discovery Service"
 
 * Please ensure that you are logged out of your FT account before you 
 attempt to sign in via SSO. The following link will ensure you are 
-logged out https://accounts.ft.com/logout 
+logged out: [Log me out of my FT account](https://accounts.ft.com/logout)
 * When accessing FT content you will be directed to the above page
 * Enter your FT account Email address
 * There is no need to enter your Password, please leave this field blank
@@ -48,8 +48,12 @@ You will then be redirected to your requested FT content and you will be
 _It is our intention to develop this page so the password field will not be visible for SSO users going forward._
 
 ## WAYFLess URL access
-A bespoke URL is provided will be shared with you. Simply click on this
- link and providing you are currently authenticated with your 
+Please ensure that you are logged out of your FT account before you 
+attempt to sign in via SSO. The following link will ensure you are 
+logged out: [Log me out of my FT account](https://accounts.ft.com/logout)
+
+A bespoke URL will be shared with you and will allow you to log in via SSO. 
+ Simply click on this link and providing you are currently authenticated with your 
  organisation’s identity provider (IdP) you will be logged in to your 
  FT account and directed to www.ft.com / next.ft.com without having to 
  enter any additional credentials*
@@ -73,7 +77,7 @@ A bespoke URL is provided will be shared with you. Simply click on this
 The pilot will last 30 days
 
 ## How many times can I test SSO?
-SSO will automatically create a cookie that remembers your FT login credentials for a given device/browser for 6 month - If you would like to carry on testing the SSO feature, please log out of your account. The following link will ensure you are logged out https://accounts.ft.com/logout 
+SSO will automatically create a cookie that remembers your FT login credentials for a given device/browser for 6 month - If you would like to carry on testing the SSO feature, please log out of your account. The following link will ensure you are logged out: [Log me out of my FT account](https://accounts.ft.com/logout)
 
 ## Will I be logged in on all my devices and different web browsers?
 You will need to follow the SSO login process for each different device and/or web browser what you wish to access FT content. E.g. If you are signed in on Firefox, this will not log you in on a Chrome web browser.
