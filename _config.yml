@@ -1,5 +1,5 @@
 
-baseurl: "/"
+baseurl: "/sso-support"
 name: THE FINANCIAL TIMES LTD
 description: SSO Support Portal
 url: "https://financial-times.github.io"
