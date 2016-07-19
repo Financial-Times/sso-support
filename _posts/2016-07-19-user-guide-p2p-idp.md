@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "User Guide - Federated IdP"
+title:  "FT SSO User Guide - Peer 2 Peer IdP"
 date:   2016-07-19 10:00:00
 ---
 
@@ -30,7 +30,7 @@ link on twitter etc) you will be logged in through a "Discovery Service"
 
 * Please ensure that you are logged out of your FT account before you 
 attempt to sign in via SSO. The following link will ensure you are 
-logged out: [Log out](https://accounts.ft.com/logout)
+logged out: [Log out of my FT account](https://accounts.ft.com/logout)
 * When accessing FT content you will be directed to the above page
 * Enter your FT account Email address
 * There is no need to enter your Password, please leave this field blank
@@ -56,7 +56,7 @@ _It is our intention to develop this page so the password field will not be visi
 The pilot will last 30 days
 
 ## How many times can I test SSO?
-SSO will automatically create a cookie that remembers your FT login credentials for a given device/browser for 6 month - If you would like to carry on testing the SSO feature, please log out of your account. The following link will ensure you are logged out https://accounts.ft.com/logout 
+SSO will automatically create a cookie that remembers your FT login credentials for a given device/browser for 6 month - If you would like to carry on testing the SSO feature, please log out of your account. The following link will ensure you are logged out: [Log out of my FT account](https://accounts.ft.com/logout)
 
 ## Will I be logged in on all my devices and different web browsers?
 You will need to follow the SSO login process for each different device and/or web browser what you wish to access FT content. E.g. If you are signed in on Firefox, this will not log you in on a Chrome web browser.
