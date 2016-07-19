@@ -1,7 +1,15 @@
- github: [metadata]
- kramdown:
-   input: GFM
-   hard_wrap: false
- gems:
-   - jekyll-coffeescript
-   - jekyll-paginate
+
+baseurl: "/"
+name: THE FINANCIAL TIMES LTD
+description: SSO Support Portal
+url: "https://financial-times.github.io"
+
+github: [metadata]
+kramdown:
+ input: GFM
+ hard_wrap: false
+gems:
+ - jekyll-coffeescript
+ - jekyll-paginate
+
+
