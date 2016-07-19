@@ -1,3 +1,8 @@
+---
+layout: post
+title:  "User Guide - Federated IdP"
+date:   2016-07-19 10:00:00
+---
 # Using FT SSO Service
 
 There are two main ways available to log in via Single Sign On to view FT content. Our Discovery Service, or via a WAYFLess URL. 
