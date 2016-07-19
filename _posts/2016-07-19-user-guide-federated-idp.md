@@ -8,7 +8,7 @@ or click on an FT article via an external link (e.g. an email link, a
 link on twitter etc) you will be logged in through a "Discovery Service"
  via the FT's login page.
 
-![FT Login Page](/sso-support/assets/login-page.png "FT Login Page") 
+![FT Login Page](/sso-support/assets/images/login-page.png "FT Login Page" =250x) 
 
 * Please ensure that you are logged out of your FT account before you 
 attempt to sign in via SSO. The following link will ensure you are 
