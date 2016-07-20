@@ -30,17 +30,15 @@ link on twitter etc) you will be logged in through a "Discovery Service"
 
 * Please ensure that you are logged out of your FT account before you 
 attempt to sign in via SSO. The following link will ensure you are 
-logged out: [Log out of my FT account](https://accounts.ft.com/logout)
+logged out: [Log me out of my FT account](https://accounts.ft.com/logout)
 * When accessing FT content you will be directed to the above page
 * Enter your FT account Email address
-* There is no need to enter your Password, please leave this field blank
+* There is no need to enter your Password, please leave this field **blank**
 * Click ‘Sign in’
-
-You will be directed to your organisation’s Identity Provider, where 
-you may be asked to log in using your company account credentials.
-
-You will then be redirected to your requested FT content and you will be
+* *(You may be asked by your organisation's Identity provider (IdP) to authenticate yourself by using your company account credentials)*
+* You will then be redirected to your requested FT content and you will be
  logged in to access [www.ft.com](http://www.ft.com) / [next.ft.com](https://next.ft.com)
+
 
 _It is our intention to develop this page so the password field will not be visible for SSO users going forward._
 
