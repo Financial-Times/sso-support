@@ -35,7 +35,7 @@ logged out: [Log me out of my FT account](https://accounts.ft.com/logout)
 * Enter your FT account Email address
 * There is no need to enter your Password, please leave this field **blank**
 * Click ‘Sign in’
-* *(You may be asked by your organisation's Identity provider (IdP) to authenticate yourself by using your company account credentials)*
+* *(You may be asked by your organisation's Identity provider (IdP) to authenticate yourself by confirming your company account credentials)*
 * You will then be redirected to your requested FT content and you will be
  logged in to access [www.ft.com](http://www.ft.com) / [next.ft.com](https://next.ft.com)
 
