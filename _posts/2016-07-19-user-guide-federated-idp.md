@@ -36,13 +36,10 @@ attempt to sign in via SSO. The following link will ensure you are
 logged out: [Log me out of my FT account](https://accounts.ft.com/logout)
 * When accessing FT content you will be directed to the above page
 * Enter your FT account Email address
-* There is no need to enter your Password, please leave this field blank
+* There is no need to enter your Password, please leave this field **blank**
 * Click ‘Sign in’
-
-You will be directed to your organisation’s Identity Provider, where 
-you may be asked to log in using your company account credentials.
-
-You will then be redirected to your requested FT content and you will be
+* (You may be asked by your organisation's Identity provider (IdP) to authenticate yourself by using your company account credentials)
+* You will then be redirected to your requested FT content and you will be
  logged in to access [www.ft.com](http://www.ft.com) / [next.ft.com](https://next.ft.com)
 
 _It is our intention to develop this page so the password field will not be visible for SSO users going forward._
@@ -62,14 +59,14 @@ A bespoke URL will be shared with you and will allow you to log in via SSO.
  (IdP) or your IdP requests that you confirm your credentials. You will
   simply be redirected to confirm your identity (e.g. your 
   organisation’s log in page) when you click the WAYFLess URL before 
-  being taken to www.ft.com / next.ft.com
+  being taken to [www.ft.com](http://www.ft.com) / [next.ft.com](https://next.ft.com)
 
 # Notes
-* The new FT Single Sign On feature is currently only available on  www.ft.com or our new website next.ft.com
+* The new FT Single Sign On feature is currently only available on  [www.ft.com](http://www.ft.com) or our new website [next.ft.com](https://next.ft.com)
 * During the pilot, you will need to be able to authenticate yourself with your organisation’s identity provider (IdP) E.g. login to your company’s network, to access www.ft.com and next.ft.com
 * You will need to be able to be authenticate yourself with organisation’s IdP to log in via the WAYFLess URL(s)
 * You will still be able to log in to the Web App (e.g. via your mobile or tablet) or via the Android App by using your existing FT Username and Password
-* We plan to add our SSO feature to the Web App and Android App soon to develop our mobile SSO access, along with additional features to improve the user experience of our FT Single sign on functionality.
+* We plan to add our SSO feature to the Web App and Android App soon to develop our mobile SSO access, along with additional features to improve the user experience of our FT single sign on functionality.
 
 # Frequently Asked Questions
 
