@@ -80,7 +80,8 @@ For the period of the pilot, we are asking users to visit [www.ft.com](http://ww
 - It is possible for pilot users to login to [www.ft.com](http://www.ft.com) and [next.ft.com](https://next.ft.com) via SSO using your mobile / tablet device. However the FT Web App [(app.ft.com)](http://app.ft.com) (e.g. the Iphone FT homescreen icon and the Android App will not be optimised for SSO for this pilot stage)
 
 ## What happens after the pilot?
-After the pilot you will still be able to use the SSO feature to log in. We plan to develop our SSO offering further and develop additional features to improve the user journey. E.g. SSO for the FT Web App. We will 
+## What happens after the pilot?
+After the pilot you will still be able to use the SSO feature to log in to your FT account. We plan to develop our SSO offering further and develop additional features to improve the user journey. E.g. SSO for the FT Web App [(app.ft.com)](http://app.ft.com)
 
 At the end of the pilot we will send you a simple short survey to collect your feedback from using our SSO pilot feature. This information will help us determine our future development for SSO and improving convenience for our users
 If you have any feedback during the pilot that you would like to share, please contact your Knowledge Manager and information will be fed back to us. 
