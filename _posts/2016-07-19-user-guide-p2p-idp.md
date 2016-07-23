@@ -43,8 +43,8 @@ logged out: [Log me out of my FT account](https://accounts.ft.com/logout)
 _It is our intention to develop this page so the password field will not be visible for SSO users going forward._
 
 # Notes
-* The new FT Single Sign On feature is currently only available on  www.ft.com or our new website next.ft.com
-* During the pilot, you will need to be able to authenticate yourself with your organisation’s identity provider (IdP) E.g. login to your company’s network, to access www.ft.com and next.ft.com
+* The new FT Single Sign On feature is currently only available on  [www.ft.com](http://www.ft.com) or our new website [next.ft.com](https://next.ft.com)
+* During the pilot, you will need to be able to authenticate yourself with your organisation’s identity provider (IdP) E.g. login to your company’s network, to access [www.ft.com](http://www.ft.com) and [next.ft.com](https://next.ft.com)
 * You will still be able to log in to the Web App (e.g. via your mobile or tablet) or via the Android App by using your existing FT Username and Password
 * We plan to add our SSO feature to the Web App and Android App soon to develop our mobile SSO access, along with additional features to improve the user experience of our FT Single sign on functionality.
 
@@ -63,8 +63,21 @@ You will need to follow the SSO login process for each different device and/or w
 Direct support will be available during the pilot, if you have any queries or encounter any issues please contact sso_support@ft.com  
 
 ## Will SSO work on my Mobile?
-During the pilot, you will be able to use the SSO feature to access www.ft.com and next.ft.com on your mobile or tablet device (providing you can authenticate yourself with your organisation’s identity provider (IdP) E.g. login to your company’s network.
-However most users access FT on their mobiles using the FT Web App (e.g. the FT ‘home screen’ icon on an IOS device) and the FT Android Native App. SSO will not be supported on these two applications during the pilot. However we hope to develop this functionality soon.
+During the pilot, you will be able to use the SSO feature to access [www.ft.com](http://www.ft.com) and [next.ft.com](https://next.ft.com) on your mobile or tablet device (providing you can authenticate yourself with your organisation’s identity provider (IdP) E.g. login to your company’s network.
+However most users access FT on their mobiles using the FT Web App [(app.ft.com)](http://app.ft.com) (e.g. the FT ‘home screen’ icon on an IOS device) and the FT Android Native App. SSO will not be supported on these two applications during the pilot. However we hope to develop this functionality soon.
+
+## What if my organisation has IP access to the FT?
+If your organisation is set up with IP access to the FT, you are currently able to access the FT without having to log in to your FT account when you are in your organisation's IP range(s) e.g. when you're in the office.
+ 
+We appreciate that as a SSO pilot user with IP access, you will still be able to view FT content when accessing the FT within your organisation's IP range without having to log in - However we don't want to turn off any IP access which would effect FT access for Clifford Chance users who are not taking part in the pilot)
+
+For the period of the pilot, we are asking users to visit [www.ft.com](http://www.ft.com) or our new website [next.ft.com](https://next.ft.com) directly and actively choose to **'Sign in'** to your account
+
+**The benefits of logging in to your FT account are:**
+
+- As a pilot user signing in via SSO you will be logged into your personal FT account, this allows you to benefit from the FT personalised features, e.g. My FT
+- You will be able to login to [www.ft.com](http://www.ft.com) or our new website [next.ft.com](https://next.ft.com) via SSO when you are outside your orgainsation's IP range (e.g. when you are out the office)
+- It is possible for pilot users to login to [www.ft.com](http://www.ft.com) and [next.ft.com](https://next.ft.com) via SSO using your mobile / tablet device. However the FT Web App [(app.ft.com)](http://app.ft.com) (e.g. the Iphone FT homescreen icon and the Android App will not be optimised for SSO for this pilot stage)
 
 ## What happens after the pilot?
 After the pilot you will still be able to use the SSO feature to log in. We plan to develop our SSO offering further and develop additional features to improve the user journey. E.g. SSO for the FT Web App. We will 
