@@ -74,7 +74,7 @@ A bespoke URL will be shared with you and will allow you to log in via SSO.
 The pilot will last 30 days
 
 ## How many times can I test SSO?
-SSO will automatically create a cookie that remembers your FT login credentials for a given device/browser for 6 month - If you would like to carry on testing the SSO feature, please log out of your account. The following link will ensure you are logged out: [Log me out of my FT account](https://accounts.ft.com/logout)
+SSO will automatically create a cookie that remembers your FT login credentials for a given device/browser for 6 month - If you would like to carry on testing the SSO feature, please log out of your account. The following link will ensure you are logged out: [Log out of my FT account](https://accounts.ft.com/logout)
 
 ## Will I be logged in on all my devices and different web browsers?
 You will need to follow the SSO login process for each different device and/or web browser what you wish to access FT content. E.g. If you are signed in on Firefox, this will not log you in on a Chrome web browser.
@@ -83,8 +83,8 @@ You will need to follow the SSO login process for each different device and/or w
 Direct support will be available during the pilot, if you have any queries or encounter any issues please contact sso_support@ft.com  
 
 ## Will SSO work on my Mobile?
-During the pilot, you will be able to use the SSO feature to access www.ft.com and next.ft.com on your mobile or tablet device (providing you can authenticate yourself with your organisation’s identity provider (IdP) E.g. login to your company’s network.
-However most users access FT on their mobiles using the FT Web App (e.g. the FT ‘home screen’ icon on an IOS device) and the FT Android Native App. SSO will not be supported on these two applications during the pilot. However we hope to develop this functionality soon.
+During the pilot, you will be able to use the SSO feature to access [www.ft.com](http://www.ft.com) and [next.ft.com](https://next.ft.com) on your mobile or tablet device (providing you can authenticate yourself with your organisation’s identity provider (IdP) E.g. login to your company’s network.
+However most users access FT on their mobiles using the FT Web App [(app.ft.com)](http://app.ft.com) (e.g. the FT ‘home screen’ icon on an IOS device) and the FT Android Native App. SSO will not be supported on these two applications during the pilot. However we hope to develop this functionality soon.
 
 ## What happens after the pilot?
 After the pilot you will still be able to use the SSO feature to log in. We plan to develop our SSO offering further and develop additional features to improve the user journey. E.g. SSO for the FT Web App. We will 
