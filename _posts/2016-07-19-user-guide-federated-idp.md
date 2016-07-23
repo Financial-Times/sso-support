@@ -87,7 +87,7 @@ During the pilot, you will be able to use the SSO feature to access [www.ft.com]
 However most users access FT on their mobiles using the FT Web App [(app.ft.com)](http://app.ft.com) (e.g. the FT ‘home screen’ icon on an IOS device) and the FT Android Native App. SSO will not be supported on these two applications during the pilot. However we hope to develop this functionality soon.
 
 ## What happens after the pilot?
-After the pilot you will still be able to use the SSO feature to log in. We plan to develop our SSO offering further and develop additional features to improve the user journey. E.g. SSO for the FT Web App. We will 
+After the pilot you will still be able to use the SSO feature to log in to your FT account. We plan to develop our SSO offering further and develop additional features to improve the user journey. E.g. SSO for the FT Web App [(app.ft.com)](http://app.ft.com)
 
 At the end of the pilot we will send you a simple short survey to collect your feedback from using our SSO pilot feature. This information will help us determine our future development for SSO and improving convenience for our users
 If you have any feedback during the pilot that you would like to share, please contact your Knowledge Manager and information will be fed back to us. 
