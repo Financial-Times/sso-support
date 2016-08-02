@@ -45,7 +45,7 @@ _It is our intention to develop this page to improve the experience for SSO user
 # Notes
 * The new FT Single Sign On feature is currently only available on  [www.ft.com](http://www.ft.com) or our new website [next.ft.com](https://next.ft.com)
 * During the pilot, to access [www.ft.com](http://www.ft.com) and [next.ft.com](https://next.ft.com) via SSO you will need to be able to authenticate yourself with your organisation’s identity provider (IdP) E.g. login to your company’s network with your work username AND password (Not your FT username and password). As with SSO a user needs to be successfully logged into one application before they are able to login automatically to additional applications.
-* If for any reason you are unable to authenicate/login to your work account, you will be able to use the [www.ft.com](http://www.ft.com) and [next.ft.com](https://next.ft.com) log in page to log in as normal with your FT username and password
+* If for any reason you are unable to authenicate/login to your work account, you will be able to log in via the [www.ft.com](http://www.ft.com) or [next.ft.com](https://next.ft.com) log in page outside of SSO by entering your FT username and FT password
 * You will still be able to log in to the [FT Web App](https://app.ft.com) (e.g. via your mobile or tablet) or via the Android App by using your existing FT Username and Password
 * We plan to add our SSO feature to the FT Web App and Android App soon to develop our mobile SSO access, along with additional features to improve the user experience of our FT Single sign on functionality.
 
