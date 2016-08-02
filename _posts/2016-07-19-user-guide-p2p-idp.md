@@ -83,9 +83,6 @@ For the period of the pilot, we are asking users to visit [www.ft.com](http://ww
 ## What if I cannot log in to my organisation's sign in page?
 If for any reason you are unable to authenicate/login to your work account (E.g. you have forgotten your work account username or password) you will be able to log in to your FT account via the [www.ft.com](http://www.ft.com) or [next.ft.com](https://next.ft.com) log in page outside of SSO by entering your FT username and FT password
 
-## What if I cannot log in to my organisation's sign in page?
-If for any reason you are unable to authenicate/login to your work account (E.g. you have forgotten your work account username or password) you will be able to log in to your FT account via the [www.ft.com](http://www.ft.com) or [next.ft.com](https://next.ft.com) log in page outside of SSO by entering your FT username and FT password
-
 ## What happens after the pilot?
 After the pilot you will still be able to use the SSO feature to log in to your FT account. We plan to develop our SSO offering further and develop additional features to improve the user journey. E.g. SSO for the FT Web App [(app.ft.com)](http://app.ft.com)
 
