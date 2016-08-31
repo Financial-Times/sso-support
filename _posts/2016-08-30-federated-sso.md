@@ -27,7 +27,7 @@ Supported Bindings:
 * urn:oasis:names:tc:SAML:2.0:bindings:HTTP-POST
 * urn:oasis:names:tc:SAML:2.0:bindings:HTTP-Artifact
 
-If you have any queries, please contact the [support team](b2bsupport@ft.com)
+For any queries about the FT’s FSSO service, please contact the [support team](mailto:B2B.CustomerSupport@ft.com)
 
 ## FT.com Autolink feature
 We support an autolink feature, this will allow existing FT.com users to login with their corporate credentials without having to do a one-off FT.com setup.
