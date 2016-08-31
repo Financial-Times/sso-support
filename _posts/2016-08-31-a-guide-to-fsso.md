@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "A Guide to Federated Single Sign on (FSSO)"
+title:  "Guide to Federated Single Sign on (FSSO)"
 date:   2016-08-31 10:00:00
 ---
 This document provides information about a new service, Federated Single Sign On (FSSO), which allows users to access FT.com using their network ID’s,  available to FT corporate, government and education customers. This documentaddresses common questions from customers regarding the terms of use. This information should be used as a guide only.
@@ -57,7 +57,7 @@ Federated SSO allows users to access FT.com using their employee or education ne
 This depends on what your current SSO capabilities are. If you already have an existing SSO infrastructure, it may be easy to join the relevant Federation. Each Federation’s website contains details of the requirements for joining.
 
 ### Where can I find a list of all the Federations that the Financial Times is currently a member of?
-The FT is a member of the entire participant Federations that make up EduGate. You can see a list of the [current member federations](http://www.edugain.org/technical/status.php) here. We are also a member of the [OpenAthens federation](http://www.openathens.net/).
+The FT is a member of the entire participant Federations that make up EduGain. You can see a list of the [current member federations](http://www.edugain.org/technical/status.php) here. We are also a member of the [OpenAthens federation](http://www.openathens.net/).
 
 ### I can’t join my local federation as they only currently allow education or research institutions to join, what are my options?
 The OpenAthens Federation is set up specifically to work with commercial organisations. Details on their [membership criteria can be found here](https://docs.openathens.net/display/public/OAHF/Eligibility+criteria).
