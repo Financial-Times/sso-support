@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "FT SSO Guide"
+title:  "A Guide to Federated Single Sign on (FSSO)"
 date:   2016-08-30 10:00:00
 ---
 
@@ -32,6 +32,7 @@ Federated SSO is an alternative access method which allows FT customers to have 
 ## What is Federated access?
 Federated Access Management builds a trust relationship between identity providers (IdP) and service providers (SP). It devolves the responsibility for authentication to a user’s home organisation, and establishes authorisation through the secure exchange of information (known as attributes) between the two parties.
 
+![Federated Access](/sso-support/assets/images/federated-access.png)
 ## What is an Access Federation?
 Federation members needing access to resources install identity provider (IdP) software, and members providing resources install service provider (SP) software. Members sign up to an agreed set of policies for exchanging information about users and resources. The federation operator acts as a registrar for this information, which describes the configuration of the members' identity and service providers. The information is known as metadata.
 How authentication is carried out by the identity provider and how rights management is carried out by the service provider is left up to the respective parties. Thus, federated access management depends on a certain level of trust. These trust agreements are managed by federations. Federations are typically being established at a national level.
@@ -45,10 +46,10 @@ Examples of other federations include:
 
 ## What are the benefits of FSSO for FT customers?
 Federated SSO allows users to access FT.com using their employee or education network IDs. In addition to more convenient access for end users, FSSO offers more control and transparency for the administration of the account.
-    Low integration costs. Available to any organisation that is a member of an Access Federation.
-    Eliminates lost or forgotten passwords. Users have just one password to remember.
-    Simplifies administration. Enables control of passwords from a centralised resource and automatically provision users when they leave the organisation.
-    Improves network security. Prevents unauthorized users from accessing subscription resources.
+* Low integration costs. Available to any organisation that is a member of an Access Federation.
+* Eliminates lost or forgotten passwords. Users have just one password to remember.
+* Simplifies administration. Enables control of passwords from a centralised resource and automatically provision users when they leave the organisation.
+* Improves network security. Prevents unauthorized users from accessing subscription resources.
 
 ## What is involved in joining an Access Federation?
 This depends on what your current SSO capabilities are. If you already have an existing SSO infrastructure, it may be easy to join the relevant Federation. Each Federation’s website contains details of the requirements for joining.
