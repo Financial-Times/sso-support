@@ -19,13 +19,15 @@ We will use this id to configure the SSO access in FT.com.
 
 ### FT.com federation metadata information
 FT.com entity Id: `https://sso.ft.com/sso/sp/oa/metadata`
+
 Supported Bindings:
-```
-"urn:oasis:names:tc:SAML:1.0:profiles:browser-post" Location="https://sso.ft.com/sso/sp/oa/auth/rcv/shib/post"
-"urn:oasis:names:tc:SAML:1.0:profiles:artifact-01" Location="https://sso.ft.com/sso/sp/oa/auth/rcv/shib/art"
-"urn:oasis:names:tc:SAML:2.0:bindings:HTTP-POST" Location="https://sso.ft.com/sso/sp/oa/auth/rcv/saml2/post"
-"urn:oasis:names:tc:SAML:2.0:bindings:HTTP-Artifact" Location="https://sso.ft.com/sso/sp/oa/auth/rcv/saml2/art"
-```
+
+* urn:oasis:names:tc:SAML:1.0:profiles:browser-post
+* urn:oasis:names:tc:SAML:1.0:profiles:artifact-01
+* urn:oasis:names:tc:SAML:2.0:bindings:HTTP-POST
+* urn:oasis:names:tc:SAML:2.0:bindings:HTTP-Artifact
+
+If you have any queries, please contact the [support team](b2bsupport@ft.com)
 
 ## FT.com Autolink feature
 We support an autolink feature, this will allow existing FT.com users to login with their corporate credentials without having to do a one-off FT.com setup.
