@@ -4,13 +4,10 @@ title:  "FT SSO Setup - Federated SSO"
 date:   2016-08-30 10:00:00
 ---
 
-# Introduction
-SSO config for federated SSO
-
 ## Prerequisites
-Your organization's identity provider needs to support SAML.
+Your organization's identity provider needs to be part of the [UKAMF](https://www.ukfederation.org.uk/) or [OpenAthens](http://www.openathens.net/) federation.
 
-Be part of the [UKAMF](https://www.ukfederation.org.uk/) or [OpenAthens](http://www.openathens.net/) federation.
+UKAMF - UK Access Management Federation or UK Federation  - provides a solution for access to online services for educational and research organisations.  The UKAMF is a UK-based federation.  
 
 OpenAthens Is both a suite of commercial products and an access management federation, all owned by the company EduServ. The FT makes use of OpenAthens SP product to manage federated SSO as a service provider. The FT is also registered in OpenAthens Federation as a service provider. OpenAthens Federation is an international access management federation, promoted for any publisher as a service provider and any identity provider that can meet the federation requirements.
 
