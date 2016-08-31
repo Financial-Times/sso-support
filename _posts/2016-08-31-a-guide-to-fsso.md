@@ -46,10 +46,10 @@ Examples of other federations include:
 
 ### What are the benefits of FSSO for FT customers?
 Federated SSO allows users to access FT.com using their employee or education network IDs. In addition to more convenient access for end users, FSSO offers more control and transparency for the administration of the account.
-* Low integration costs. Available to any organisation that is a member of an Access Federation.
-* Eliminates lost or forgotten passwords. Users have just one password to remember.
-* Simplifies administration. Enables control of passwords from a centralised resource and automatically provision users when they leave the organisation.
-* Improves network security. Prevents unauthorized users from accessing subscription resources.
+* **Low integration costs.** Available to any organisation that is a member of an Access Federation.
+* **Eliminates lost or forgotten passwords.** Users have just one password to remember.
+* **Simplifies administration.** Enables control of passwords from a centralised resource and automatically provision users when they leave the organisation.
+* **Improves network security.** Prevents unauthorized users from accessing subscription resources.
 
 ### What is involved in joining an Access Federation?
 This depends on what your current SSO capabilities are. If you already have an existing SSO infrastructure, it may be easy to join the relevant Federation. Each Federation’s website contains details of the requirements for joining.
