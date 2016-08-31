@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "A Guide to Federated Single Sign on (FSSO)"
-date:   2016-08-31 10:00:00
+date:   2016-08-31 14:00:00
 ---
 
 # A Guide to Federated Single Sign on (FSSO)
