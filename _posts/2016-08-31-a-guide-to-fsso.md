@@ -3,8 +3,6 @@ layout: post
 title:  "A Guide to Federated Single Sign on (FSSO)"
 date:   2016-08-31 10:00:00
 ---
-
-# A Guide to Federated Single Sign on (FSSO)
 This document provides information about a new service, Federated Single Sign On (FSSO), which allows users to access FT.com using their network ID’s,  available to FT corporate, government and education customers. This documentaddresses common questions from customers regarding the terms of use. This information should be used as a guide only.
 
 1. [What is Federated Single Sign On (FSSO)?](#what-is-federated-single-sign-on)
