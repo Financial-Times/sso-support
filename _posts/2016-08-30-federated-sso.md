@@ -36,17 +36,17 @@ OpenAthens admin console: [https://admin.openathens.net](https://admin.openathen
 Verify that email address is a releasable attribute:
 
 * Go to [Schema Editor](https://admin.openathens.net/#SchemaEditor) section: `Menu > Preferences > Schema Editor`
-* Open the Core Attributes: Personal Account > Core Attributes
-* Verify the properties for the email field. It needs to display "releasable", see image.
+* Open the Core Attributes item: `Personal Account > Core Attributes`
+* Verify the properties for the email field. It needs to display `releasable`, see image.
 
 ![OpenAthens Schema Editor](/sso-support/assets/images/openathens-schema-editor.png)
 
 Add email address to the SAML response:
 
 * Go to [Attribute Release](https://admin.openathens.net/#ReleasePolicies) section: `Menu > Preferences > Attribute Release`
-* Click edit on the Global (all resources) policy. Edit appears when you hover over the policy.
-* Click on email address. It should be displayed with a tick.
-* Click Done
-* Click on save changes.
+* Click edit on the `Global (all resources)` policy. Edit appears when you hover over the policy.
+* Click on `email address`. It should be displayed with a tick.
+* Click `Done`
+* Click on `save changes`.
 
 ![OpenAthens Attribute Release](/sso-support/assets/images/openathens-release-attributes.png)
