@@ -30,7 +30,7 @@ Federated SSO is an alternative access method which allows FT customers to have 
 ### What is Federated access?
 Federated Access Management builds a trust relationship between identity providers (IdP) and service providers (SP). It devolves the responsibility for authentication to a user’s home organisation, and establishes authorisation through the secure exchange of information (known as attributes) between the two parties.
 
-![Federated Access](/sso-support/assets/images/federated-access.png)
+![Federated Access](/sso-support/images/federated-access.png)
 
 ### What is an Access Federation?
 Federation members needing access to resources install identity provider (IdP) software, and members providing resources install service provider (SP) software. Members sign up to an agreed set of policies for exchanging information about users and resources. The federation operator acts as a registrar for this information, which describes the configuration of the members' identity and service providers. The information is known as metadata.
