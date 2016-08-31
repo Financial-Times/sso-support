@@ -2,7 +2,6 @@
 baseurl: "/sso-support"
 name: THE FINANCIAL TIMES LTD
 description: SSO Support Portal
-permalink: /:title
 url: "https://financial-times.github.io"
 
 github: [metadata]
