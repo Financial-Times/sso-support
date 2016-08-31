@@ -4,13 +4,10 @@ title:  "FT SSO Setup - Federated SSO"
 date:   2016-08-30 10:00:00
 ---
 
-# Introduction
-SSO config for federated SSO
-
 ## Prerequisites
-Your organization's identity provider needs to support SAML.
+Your organization's identity provider needs to be part of the [UKAMF](https://www.ukfederation.org.uk/) or [OpenAthens](http://www.openathens.net/) federation.
 
-Be part of the [UKAMF](https://www.ukfederation.org.uk/) or [OpenAthens](http://www.openathens.net/) federation.
+UKAMF - UK Access Management Federation or UK Federation  - provides a solution for access to online services for educational and research organisations.  The UKAMF is a UK-based federation.  
 
 OpenAthens Is both a suite of commercial products and an access management federation, all owned by the company EduServ. The FT makes use of OpenAthens SP product to manage federated SSO as a service provider. The FT is also registered in OpenAthens Federation as a service provider. OpenAthens Federation is an international access management federation, promoted for any publisher as a service provider and any identity provider that can meet the federation requirements.
 
@@ -31,22 +28,22 @@ This can be configured in your IDP.
 ## OpenAthens - Add email to SAML response
 These are the steps in OpenAthens to add the email address to the SAML response
 
-OpenAthens admin console: https://admin.openathens.net
+OpenAthens admin console: [https://admin.openathens.net](https://admin.openathens.net)
 
 Verify that email address is a releasable attribute:
 
-* Go to [Schema Editor](https://admin.openathens.net/#SchemaEditor) section: Menu > Preferences > Schema Editor
-* Open the Core Attributes: Personal Account > Core Attributes
-* Verify the properties for the email field. It needs to display "releasable", see image.
+* Go to [Schema Editor](https://admin.openathens.net/#SchemaEditor) section: `Menu > Preferences > Schema Editor`
+* Open the Core Attributes item: `Personal Account > Core Attributes`
+* Verify the properties for the email field. It needs to display `releasable`, see image.
 
 ![OpenAthens Schema Editor](/sso-support/assets/images/openathens-schema-editor.png)
 
 Add email address to the SAML response:
 
-* Go to [Attribute Release](https://admin.openathens.net/#ReleasePolicies) section: Menu > Preferences > Attribute Release
-* Click edit on the Global (all resources) policy. Edit appears when you hover over the policy.
-* Click on email address. It should be displayed with a tick.
-* Click Done
-* Click on save changes.
+* Go to [Attribute Release](https://admin.openathens.net/#ReleasePolicies) section: `Menu > Preferences > Attribute Release`
+* Click edit on the `Global (all resources)` policy. Edit appears when you hover over the policy.
+* Click on `email address`. It should be displayed with a tick.
+* Click `Done`
+* Click on `save changes`.
 
 ![OpenAthens Attribute Release](/sso-support/assets/images/openathens-release-attributes.png)
