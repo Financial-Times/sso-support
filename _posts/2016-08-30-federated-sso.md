@@ -7,14 +7,14 @@ date:   2016-08-30 10:00:00
 ## Prerequisites
 Your organization's identity provider needs to be part of the [UKAMF](https://www.ukfederation.org.uk/) or [OpenAthens](http://www.openathens.net/) federation.
 
-UKAMF - UK Access Management Federation or UK Federation  - provides a solution for access to online services for educational and research organisations.  The UKAMF is a UK-based federation.  
+**UKAMF** - UK Access Management Federation or UK Federation  - provides a solution for access to online services for educational and research organisations.  The UKAMF is a UK-based federation.  
 
-OpenAthens Is both a suite of commercial products and an access management federation, all owned by the company EduServ. The FT makes use of OpenAthens SP product to manage federated SSO as a service provider. The FT is also registered in OpenAthens Federation as a service provider. OpenAthens Federation is an international access management federation, promoted for any publisher as a service provider and any identity provider that can meet the federation requirements.
+**OpenAthens** Is both a suite of commercial products and an access management federation, all owned by the company EduServ. The FT makes use of OpenAthens SP product to manage federated SSO as a service provider. The FT is also registered in OpenAthens Federation as a service provider. OpenAthens Federation is an international access management federation, promoted for any publisher as a service provider and any identity provider that can meet the federation requirements.
 
-eduGAIN is a service that connects many federations around the world.  The UKAMF publishes its federation metadata (participant information) to eduGAIN, as do many other federations e.g. InCommon for USA, SurfConext for Netherlands, SWAMID for Sweden.  UKAMF will automatically import all eduGain metadata that meets its standards. This means most participants registered in eduGAIN are available to UKAMF.
+**eduGAIN** is a service that connects many federations around the world.  The UKAMF publishes its federation metadata (participant information) to eduGAIN, as do many other federations e.g. InCommon for USA, SurfConext for Netherlands, SWAMID for Sweden.  UKAMF will automatically import all eduGain metadata that meets its standards. This means most participants registered in eduGAIN are available to UKAMF.
 
 ## FT.com SSO integration
-In order to integrate your organization IDP, we only need your IDP entity id as configured in the access management federation.
+In order to integrate your organization IDP, we only need your **IDP entity id** as configured in the access management federation.
 We will use this id to configure the SSO access in FT.com.
 
 ## FT.com Autolink feature
