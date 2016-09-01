@@ -4,6 +4,9 @@ title:  "FT SSO Setup - Federated SSO"
 date:   2016-08-30 10:00:00
 ---
 
+## Introduction
+Federated SSO is an effort to allow users to access FT.com using their employee or education network IDs when they belong to a Access Federation.
+
 ## Prerequisites
 Your organization's identity provider needs to be part of the [UKAMF](https://www.ukfederation.org.uk/) or [OpenAthens](http://www.openathens.net/) federaton.
 
