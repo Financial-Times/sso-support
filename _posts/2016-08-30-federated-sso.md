@@ -5,16 +5,16 @@ date:   2016-08-30 10:00:00
 ---
 
 ## Introduction
-Federated SSO is an effort to allow users to access FT.com using their employee or education network IDs when they belong to a Access Federation.
+Federated SSO is an effort to allow users to access FT.com using their employee or education network IDs when they belong to an Access Federation.
 
 ## Prerequisites
-Your organization's identity provider needs to be part of the [UKAMF](https://www.ukfederation.org.uk/) or [OpenAthens](http://www.openathens.net/) federaton.
+Your organization's identity provider needs to be part of the [UKAMF](https://www.ukfederation.org.uk/) or [OpenAthens](http://www.openathens.net/) federation.
 
-For organizations that are part [eduGAIN](http://services.geant.net/edugain/Pages/Home.aspx) federation and are compatible with UKAMF are supported too.
+Organizations that are part [eduGAIN](http://services.geant.net/edugain/Pages/Home.aspx) federation and are compatible with UKAMF are supported too.
 
 **[UKAMF](https://www.ukfederation.org.uk/)** - UK Access Management Federation or UK Federation  - provides a solution for access to online services for educational and research organisations.  The UKAMF is a UK-based federation.  
 
-**[OpenAthens](http://www.openathens.net/)** Is both a suite of commercial products and an access management federation, all owned by the company EduServ. The FT makes use of OpenAthens SP product to manage federated SSO as a service provider. The FT is also registered in OpenAthens Federation as a service provider. OpenAthens Federation is an international access management federation, promoted for any publisher as a service provider and any identity provider that can meet the federation requirements.
+**[OpenAthens](http://www.openathens.net/)** is both a suite of commercial products and an access management federation, all owned by the company EduServ. The FT makes use of OpenAthens SP product to manage federated SSO as a service provider. The FT is also registered in OpenAthens Federation as a service provider. OpenAthens Federation is an international access management federation, promoted for any publisher as a service provider and any identity provider that can meet the federation requirements.
 
 **[eduGAIN](http://services.geant.net/edugain/Pages/Home.aspx)** is a service that connects many federations around the world. The UKAMF publishes its federation metadata (participant information) to eduGAIN, as do many other federations e.g. InCommon for USA, SurfConext for Netherlands, SWAMID for Sweden. UKAMF will automatically import all eduGain metadata that meets its standards. This means most participants registered in eduGAIN are available to UKAMF.
 
