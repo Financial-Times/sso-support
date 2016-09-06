@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Guide to Federated Single Sign on (FSSO)"
+title:  "Guide to SSO with Federated IdPs"
 date:   2016-08-31 10:00:00
 ---
-This document provides information about a new service, Federated Single Sign On (FSSO), which allows users to access FT.com using their network ID’s,  available to FT corporate, government and education customers. This documentaddresses common questions from customers regarding the terms of use. This information should be used as a guide only.
+This document provides information about a new service, Single Sign On (SSO), which allows users to access FT.com using their network ID’s,  available to FT corporate, government and education customers. This document addresses common questions from customers regarding the terms of use. This information should be used as a guide only.
 
-1. [What is Federated Single Sign On (FSSO)?](#what-is-federated-single-sign-on)
+1. [What is Single Sign On?](#what-is-federated-single-sign-on)
 1. [What is Federated access?](#what-is-federated-access)
 1. [What is an Access Federation?](#what-is-an-access-federation)
 1. [What are the benefits of FSSO for FTcustomers?](#what-are-the-benefits-of-fsso-for-ft-customers)
@@ -24,8 +24,8 @@ This document provides information about a new service, Federated Single Sign On
 1. [Is FSSO compatible with EzProxy?](#is-fsso-compatible-with-ezproxy)
 1. [I have some questions about Federated Single Sign On. Who should I contact?](#i-have-some-questions-about-federated-single-sign-on-who-should-i-contact)
 
-### What is Federated Single Sign On?
-Federated SSO is an alternative access method which allows FT customers to have full access to FT.com without having to manually login when accessing the site via an agreed route. It allows for users to be deprovisioned when an individual leaves an organisation, after a 90 day grace period.
+### What is Single Sign On?
+SSO is an alternative access method which allows FT customers to have full access to FT.com without having to manually login when accessing the site via an agreed route. It allows for users to be deprovisioned when an individual leaves an organisation, after a 90 day grace period.
 
 ### What is Federated access?
 Federated Access Management builds a trust relationship between identity providers (IdP) and service providers (SP). It devolves the responsibility for authentication to a user’s home organisation, and establishes authorisation through the secure exchange of information (known as attributes) between the two parties.
