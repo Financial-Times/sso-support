@@ -70,7 +70,7 @@ However most users access FT on their mobiles using the FT Web App [(app.ft.com)
 ## What if my organisation has IP access to the FT?
 If your organisation is set up with IP access to the FT, you are currently able to access the FT without having to log in to your FT account when you are in your organisation's IP range(s) e.g. when you're in the office.
  
-We appreciate that as a SSO pilot user with IP access, you will still be able to view FT content when accessing the FT within your organisation's IP range without having to log in - However we don't want to turn off any IP access which would effect FT access for Clifford Chance users who are not taking part in the pilot)
+We appreciate that as a SSO pilot user with IP access, you will still be able to view FT content when accessing the FT within your organisation's IP range without having to log in - However we don't want to turn off any IP access which would effect FT access for users who are not taking part in the pilot)
 
 For the period of the pilot, we are asking users to visit [www.ft.com](http://www.ft.com) or our new website [next.ft.com](https://next.ft.com) directly and actively choose to **'Sign in'** to your account
 
