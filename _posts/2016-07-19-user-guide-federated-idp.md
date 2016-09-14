@@ -18,7 +18,7 @@ The next time you want to view FT content (e.g. click on an article you want to 
 
 ![FT Login Page](/sso-support/assets/images/login-page.png) 
 
-  2) Enter your email address but leave the password field blank and click ‘Sign in’
+  2) Enter your email address but leave the password field *blank* and click ‘Sign in’
 
   3) You'll be taken to your company's federation provider sign-in page. Enter your federation account Username AND Password (Note: not your FT password)
   *(If you’re already signed in to the federation provider on your device/browser you may skip this section)*
