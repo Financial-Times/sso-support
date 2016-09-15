@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "FT SSO User Guide - Peer 2 Peer IdP"
-date:   2016-09-14 10:00:00
+date:   2016-07-19 10:00:00
 ---
 
 # Introduction 
