@@ -30,5 +30,5 @@ You will then be logged into your FT account and taken back to the content you s
 * If, for any reason, you are unable to authenticate/sign in to your work account, you will still be able to sign in via www.ft.com or next.ft.com by entering your FT username and FT password
 * You will still be able to sign in to the [FT Web App](https://app.ft.com/) (via your mobile or tablet) or via the Android App by using your existing FT username and password
 
-# Notes
+# Further Information
 For further information on SSO please view our [User FAQ Page](https://financial-times.github.io/sso-support/2016/07/19/faqs)
