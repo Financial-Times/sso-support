@@ -20,10 +20,9 @@ The next time you want to view FT content (e.g. click on an article you want to 
 
   2) Enter your email address but leave the password field *blank* and click ‘Sign in’
 
-  3) You'll be taken to your company's federation provider sign-in page. Enter your federation account Username AND Password (Note: not your FT password)
-  *(If you’re already signed in to the federation provider on your device/browser you may skip this section)*
-  
-  You will then be logged into your FT account and taken back to the content you selected.
+  3) You'll be re-directed to your chosen FT article*
+
+_*(If you’re not signed in to your company’s federation provider on your device/browser, before being directed to your chosen FT article, you'll be taken to your company's federation provider sign in page and asked to enter your account Username AND Password (Please note: not your FT password) You will then be logged into your FT account and taken back to the content you selected._
 
 ## WAYFLess URL access
 A bespoke URL will be made available to you. You will be able select this link to sign in to your  FT account
