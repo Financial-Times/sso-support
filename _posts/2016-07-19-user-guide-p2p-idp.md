@@ -17,12 +17,9 @@ Here's how you can view FT content directly on [www.ft.com](www.ft.com), on our 
 
   2) Enter your email address but leave the password field blank and click ‘Sign in’ 
 
-  3) You'll be taken to your company's sign in page.
-  Enter your work username AND password (Please note: not your FT password)
-
-*(If you’re already signed in to your company’s account on your device/browser you may skip this section)*
-
-You will then be logged into your FT account and taken back to the content you selected. 
+  3) You'll be re-directed to your chosen FT article*
+  
+*(If you’re not signed in to your company’s account on your device/browser, before being directed to your chosen FT article, you'll be taken to your company's identity provider sign in page and asked to enter your work username AND password (Please note: not your FT password) You will then be logged into your FT account and taken back to the content you selected. 
 
 # Notes
 * The new FT Single Sign On feature is currently only available on  [www.ft.com](http://www.ft.com) or our new website [next.ft.com](https://next.ft.com)
