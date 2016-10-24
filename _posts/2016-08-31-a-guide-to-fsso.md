@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Guide to SSO with Federated IdPs"
-date:   2016-08-31 10:00:00
 ---
 This document provides information about a new service, Single Sign On (SSO), which allows users to access FT.com using their network ID’s,  available to FT corporate, government and education customers. This document addresses common questions from customers regarding the terms of use. This information should be used as a guide only.
 

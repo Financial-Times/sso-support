@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "FT SSO Setup - Federated SSO"
-date:   2016-08-30 10:00:00
 ---
 
 ## Introduction

@@ -1,25 +1,26 @@
 ---
 layout: post
-title:  "FT SSO User Guide - Peer 2 Peer IdP"
-date:   2016-07-19 10:00:00
+title:  "FT SSO User Guide - Single Sign On for Corporate Organisations"
 ---
 
-# Introduction 
+# Introduction
 Single Sign On (SSO) means that, providing you are able to sign in to your company’s user account, you can sign in to your FT account without having to enter an FT account password.
 
 # How to sign in to your FT account via SSO
 
 Here's how you can view FT content directly on [www.ft.com](www.ft.com), on our latest news site [www.next.ft.com](www.next.ft.com) or via an external FT article e.g. an email link or tweet.
 
-  1) Providing you’re not already logged in to your FT account you’ll reach a barrier page, click sign in and you will be directed to this page 
+  1) Providing you’re not already logged in to your FT account you’ll reach a barrier page, click sign in and you will be directed to this page
 
-![FT Login Page](/sso-support/assets/images/login-page.png) 
+![FT Login Page](/sso-support/assets/images/login-page.png)
 
-  2) Enter your email address but leave the password field blank and click ‘Sign in’ 
+  2) Enter your email address but leave the password field blank and click ‘Sign in’
 
   3) You'll be re-directed to your chosen FT article*
-  
-_*(If you’re not signed in to your company’s account on your device/browser, before being directed to your chosen FT article, you'll be taken to your company's identity provider sign in page and asked to enter your work username AND password (Please note: not your FT password) You will then be logged into your FT account and taken back to the content you selected._ 
+
+_*(If you’re not signed in to your company’s account on your device/browser, before being directed to your chosen FT article, you'll be taken to your company's identity provider sign in page and asked to enter your work username AND password (Please note: not your FT password) You will then be logged into your FT account and taken back to the content you selected._
+
+_*(You will need to follow the SSO login process for each different device and/or web browser what you wish to access FT content. E.g. If you are signed in on Firefox, this will not log you in on a Chrome web browser._
 
 # Notes
 * The new FT Single Sign On feature is currently only available on  [www.ft.com](http://www.ft.com) or our new website [next.ft.com](https://next.ft.com)
