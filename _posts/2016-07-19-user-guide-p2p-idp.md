@@ -12,7 +12,7 @@ Here's how you can view FT content directly on [www.ft.com](www.ft.com) or via a
 
 *Note - In order to log in via SSO you will need to log out of FT.com initially. The following link will ensure you are logged out: [Log me out of my FT account](https://accounts.ft.com/logout).*
 
-  **1)** Providing you’re not already logged in to your FT account, when you select an FT article you’ll reach a barrier page, click **'Sign in'** and you will be directed to the page below
+  **1)** Providing you’re not already logged in to your FT account, when you select an FT article you’ll reach a barrier page, click **'Sign in here'** and you will be directed to the page below
 
 ![FT Login Page](/sso-support/assets/images/login-page.png)
 
