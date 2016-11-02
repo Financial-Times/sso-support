@@ -8,15 +8,17 @@ Single Sign On (SSO) means that, providing you are able to sign in to your compa
 
 # How to sign in to your FT account via SSO
 
-Here's how you can view FT content directly on [www.ft.com](www.ft.com) or via an external FT article e.g. an email link or tweet.
+Here's how you can view FT content directly on [www.ft.com](www.ft.com) or via an external FT article e.g. an email link or tweet. 
 
-  1) In order to log in via SSO you will need to log out of FT.com initially. Providing you’re not already logged in to your FT account you’ll reach a barrier page, click sign in and you will be directed to the page below
+*Note - In order to log in via SSO you will need to log out of FT.com initially. The following link will ensure you are logged out: [Log me out of my FT account](https://accounts.ft.com/logout).*
+
+  **1)** Providing you’re not already logged in to your FT account, when you select an FT article you’ll reach a barrier page, click **'Sign in'** and you will be directed to the page below
 
 ![FT Login Page](/sso-support/assets/images/login-page.png)
 
-  2) Enter your email address but leave the password field blank and click ‘Sign in’
+  **2)** Enter your email address but leave the password field blank and click **‘Sign in’**
 
-  3) You'll be re-directed to your chosen FT article
+  **3)** You'll be re-directed to your chosen FT article
 
   3A) You may be re-directed to your company's sign-in page; if you're not already logged in, and asked to enter your work username and password. (Please note: not your FT password). You will then be logged into your FT account and taken back to the content you selected.
 
