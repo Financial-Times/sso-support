@@ -47,10 +47,20 @@ Examples of other federations include:
 ### What are the benefits of SSO for FT customers?
 SSO allows users to access FT.com using their employee or education network IDs. In addition to more convenient access for end users, SSO offers more control and transparency for the administration of the account.
 
-* **Low integration costs.** Available to any organisation that is a member of an Access Federation.
-* **Eliminates lost or forgotten passwords.** Users have just one password to remember.
-* **Simplifies administration.** Enables control of passwords from a centralised resource and automatically provision users when they leave the organisation.
-* **Improves network security.** Prevents unauthorized users from accessing subscription resources.
+**End reader benefits**
+* Creates an easy, frictionless login for users and access to FT content across multiple devices without the need to remember a password.
+* Users can easily sign themselves up.
+* Users that currently login without authenticating themselves such as through IP access are not getting the most from their access as  there are a number of new developments on FT.com that require user authentication, for example, gift articles and My FT.
+* Deliver a more personalised service as users are identifiable allowing us to be able to recommend reads that are relevant and assist directly on account needs/ alerts/ issues.
+
+**Administrators/ Knowledge Managers** 
+* Less time spent on administering accounts and re-setting passwords
+* Management of large subscriptions is more efficient
+* Through Deprovisioning, users who have left the organisation or that have become redundant will be automatically removed and existing users will be reminded to re-engage.
+* Possibility to reduce costs by identifying and removing those inactive users
+* Overall SSO is a more secure login process as organisations can enforce their password policies
+* Low integration costs. Available to any organisation that is a member of an Access Federation.
+
 
 ### What is involved in joining an Access Federation?
 This depends on what your current SSO capabilities are. If you already have an existing SSO infrastructure, it may be easy to join the relevant Federation. Each Federation’s website contains details of the requirements for joining.
@@ -64,11 +74,15 @@ The OpenAthens Federation is set up specifically to work with commercial organis
 ### Once I am a member of an Access Federation, how do I get set up to access FT.com?
 Once you are a member, you will just need to supply the FT with your EntityID, which your Access Federation will supply you with. We will use this ID to add the SSO access method to your account.
 
+You can find more information  federated set up section here> [FT SSO Setup - Federated SSO Introduction](https://financial-times.github.io/sso-support/2016/08/30/federated-sso)
+
 ### If I am not currently part of an Access Federation, can I still be set up with single sign on?
-Unfortunately, not at the moment. Our current Single Sign On solutions require the client to be a member of an Access Federation.
+Your organisation can still be set up with single sign on access to FT.com if you are not currently a member of an Access Federation or if joining an Access Federation is not suitable for you organisation. Our Peer 2 Peer SSO  access allows users to access FT.com using their employee enterprise IDP.
+
+For more information on Peer 2 Peer SSO access please visit [FT SSO Setup - Peer-to-Peer SSO Introduction](https://financial-times.github.io/sso-support/2016/08/30/p2p-sso)
 
 ### How are SSO users deprovisioned?
-If an SSO enabled user doesn’t access via the SSO route for 90 days the FT will assume that their access has been removed on the client’s side, and the user will be deprovisioned. Deprovisioned means that the user will be automatically moved from the relevant active user group to the organisation’s inactive user group. The user will be notified that this change has happened, and that will revert to having registered access to the site. The user will also be notified after 83 days of inactivity warning them that they will shortly lose their subscription access, if they do not log in before the 90 days cut off.
+As an additional feature with SSO set up, if an SSO enabled user doesn’t access via the SSO route for 90 days the FT will assume that their access has been removed on the client’s side, and the user will be deprovisioned. Deprovisioned means that the user will be automatically moved from the relevant active user group to the organisation’s inactive user group. The user will be notified that this change has happened, and that will revert to having registered access to the site. The user will also be notified after 83 days of inactivity warning them that they will shortly lose their subscription access, if they do not log in before the 90 days cut off.
 
 ### How are SSO users reprovisioned?
 If a deprovisioned user accesses the site via the SSO route, they will be automatically reprovisioned. This means that the FT will automatically recognise that the user is coming from an SSO enabled organisation. They will be moved from the inactive user group and will become a member of the relevant active user group where they will regain their subscription access. This will be seamless and should not be visible by the end user.
@@ -83,7 +97,9 @@ As part of your SSO fulfilment you will be supplied with a WAYFLess URL (Where a
 No, SSO doesn’t use IP address to identify what organisation a user is from. That information is passed to us securely from the users Identity Provider. All information passed from the Identity Provider and/or Federation, is encrypted before it is passed over to the FT.
 
 ### Does the FT provide mobile SSO?
-At present we cannot offer SSO to app.ft.com. To use the web app users will still need to login using the username and password they set up when they first visited FT.com. Accessing the full site on a mobile device via the agreed SSO route will work correctly and they user will automatically be logged in. E.g. a user accessing FT.com via the SSO link on their company intranet whilst on their IP will get logged in seamlessly to FT.com.
+SSO enabled users can sign in to their FT account via SSO on their mobile / tablet devices. Simply visit the FT Web App (app.ft.com) (e.g. the FT ‘home screen’ icon on an IOS device) or the FT Android Native App and follow the instructions.
+
+*Note - The ability to sign in to the users IdP /federation account on their mobile/tablet device will be required to allow users to sign into their FT account via SSO.*
 
 ### Is SSO compatible with Access Manager?
 Yes. If your organisation is interested in using Access Manager as well as SSO both can be enabled, as long as the Access Manager is updated to include the relevant WAYFLess URL. This is needed so the users are directed back through their IDP, which ensures they are identified and redirected to the correct page.
