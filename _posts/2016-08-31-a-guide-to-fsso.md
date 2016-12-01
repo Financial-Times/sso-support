@@ -48,18 +48,18 @@ Examples of other federations include:
 SSO allows users to access FT.com using their employee or education network IDs. In addition to more convenient access for end users, SSO offers more control and transparency for the administration of the account.
 
 **End reader benefits**
-* Creates an easy, frictionless login for users and access to FT content across multiple devices without the need to remember a password.
-* Users can easily sign themselves up.
-* Users that currently login without authenticating themselves such as through IP access are not getting the most from their access as  there are a number of new developments on FT.com that require user authentication, for example, gift articles and My FT.
-* Deliver a more personalised service as users are identifiable allowing us to be able to recommend reads that are relevant and assist directly on account needs/ alerts/ issues.
+- Creates an easy, frictionless login for users and access to FT content across multiple devices without the need to remember a password.
+- Users can easily sign themselves up.
+- Users that currently login without authenticating themselves such as through IP access are not getting the most from their access as  there are a number of new developments on FT.com that require user authentication, for example, gift articles and My FT.
+- Deliver a more personalised service as users are identifiable allowing us to be able to recommend reads that are relevant and assist directly on account needs/ alerts/ issues.
 
-**Administrators/ Knowledge Managers** 
-* Less time spent on administering accounts and re-setting passwords
-* Management of large subscriptions is more efficient
-* Through Deprovisioning, users who have left the organisation or that have become redundant will be automatically removed and existing users will be reminded to re-engage.
-* Possibility to reduce costs by identifying and removing those inactive users
-* Overall SSO is a more secure login process as organisations can enforce their password policies
-* Low integration costs. Available to any organisation that is a member of an Access Federation.
+**Administrators/ Knowledge Manager benefits** 
+- Less time spent on administering accounts and re-setting passwords
+- Management of large subscriptions is more efficient
+- Through Deprovisioning, users who have left the organisation or that have become redundant will be automatically removed and existing users will be reminded to re-engage.
+- Possibility to reduce costs by identifying and removing those inactive users
+- Overall SSO is a more secure login process as organisations can enforce their password policies
+- Low integration costs. Available to any organisation that is a member of an Access Federation.
 
 
 ### What is involved in joining an Access Federation?
