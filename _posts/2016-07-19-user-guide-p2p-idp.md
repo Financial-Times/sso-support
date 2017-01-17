@@ -14,9 +14,11 @@ Here's how you can view FT content directly on [www.ft.com](www.ft.com) or via a
 
   **1)** Providing you’re not already logged in to your FT account, when you select an FT article you’ll reach a barrier page, click **'Sign in here'** and you will be directed to the page below
 
-![FT Login Page](/sso-support/assets/images/login-page.png)
+![FT Login Page](/sso-support/assets/images/FTLogin2017.PNG)
 
-  **2)** Enter your email address but leave the password field blank and click **‘Sign in’**
+  **2a)** Enter your email address and click **‘Next’**
+  
+  **2b)** Your email address is identified as belonging to an SSO enabled organisation. Click **’Sign In’**
 
   **3)** You'll be re-directed to your chosen FT article
 
