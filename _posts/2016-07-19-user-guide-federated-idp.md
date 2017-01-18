@@ -19,7 +19,7 @@ The next time you want to view FT content (e.g. click on an article you want to 
 
 ![FT Login Page](/sso-support/assets/images/login-page.png)
 
-![FT Login Page](/sso-support/assets/images/FTLogin2017.PNG)
+![FT Login Page 2017](https://github.com/Financial-Times/sso-support/blob/gh-pages/images/FTLogin2017.PNG)
 
   **2a)** Enter your email address and click **‘Next’**
   
