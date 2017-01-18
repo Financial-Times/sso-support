@@ -15,15 +15,17 @@ The next time you want to view FT content (e.g. click on an article you want to 
 
 *Note - In order to log in via SSO you will need to log out of FT.com initially. The following link will ensure you are logged out: Log me out of my FT account.*
 
-  1) Providing you’re not already logged in to your FT account, when you select an FT article you’ll reach a barrier page, click ‘Sign in here’ and you will be directed to the page below
-
-  2) Providing you’re not already logged in to your FT account. You’ll reach a barrier page, click Sign in and you will be directed to the below page
+  1) Providing you’re not already logged in to your FT account, when you select an FT article you’ll reach a barrier page, click **‘Sign in here’** and you will be directed to the page below
 
 ![FT Login Page](/sso-support/assets/images/login-page.png)
 
-  2) Enter your email address but leave the password field **blank** and click **‘Sign in’**
+![FT Login Page](/sso-support/assets/images/FTLogin2017.PNG)
+
+  **2a)** Enter your email address and click **‘Next’**
   
-  3) You’ll be re-directed to your chosen FT article
+  **2b)** Your email address is identified as belonging to an SSO enabled organisation. Click **’Sign In’**
+
+  **3)** You'll be re-directed to your chosen FT article
   
   *3A) If you’re not signed in to your company’s federation provider on your device/browser, before being directed to your chosen FT article, you'll be taken to your company's federation provider sign in page and asked to enter your account Username AND Password (Please note: not your FT password) You will then be logged into your FT account and taken back to the content you selected.*
   
