@@ -17,7 +17,7 @@ The next time you want to view FT content (e.g. click on an article you want to 
 
   1) Providing you’re not already logged in to your FT account, when you select an FT article you’ll reach a barrier page, click **‘Sign in here’** and you will be directed to the page below
 
-![FT Login Page 2017](https://github.com/Financial-Times/sso-support/blob/gh-pages/images/FTLogin2017.PNG)
+![FT Login Page](/sso-support/images/FTLogin2017.PNG)
 
   **2a)** Enter your email address and click **‘Next’**
   
