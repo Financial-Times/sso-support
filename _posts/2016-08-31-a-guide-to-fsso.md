@@ -7,7 +7,7 @@ This document provides information about a new service, Single Sign On (SSO), wh
 1. [What is Single Sign On?](#what-is-federated-single-sign-on)
 1. [What is Federated access?](#what-is-federated-access)
 1. [What is an Access Federation?](#what-is-an-access-federation)
-1. [What are the benefits of SSO for FTcustomers?](#what-are-the-benefits-of-fsso-for-ft-customers)
+1. [What are the benefits of SSO for FT customers?](#What are the benefits of SSO for FT customers?)
 1. [What is involved in joining an Access Federation?](#what-is-involved-in-joining-an-access-federation)
 1. [Where can I find a list of all the Federations that the Financial Times is currently a member of?](#where-can-i-find-a-list-of-all-the-federations-that-the-financial-times-is-currently-a-member-of)
 1. [I can’t join my local federation as they only currently allow education or research institutions. What are my options?](#i-cant-join-my-local-federation-as-they-only-currently-allow-education-or-research-institutions-what-are-my-options)
